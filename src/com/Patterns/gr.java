@@ -1,9 +1,14 @@
 package com.Patterns;
-//Huraay! divide any number in the group of five
+
+import java.util.Scanner;
+
+//Huraay! this program will set  any number in the group of five consecutive numbers
 public class gr {
 	public static void main(String[] args) {
-
-	int n= 63;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter any Number :");
+		int n=scan.nextInt();
+	//int n= 63;
 	int i=1;
 	while(n>=1) {
 		
