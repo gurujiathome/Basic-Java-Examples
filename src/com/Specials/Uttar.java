@@ -1,5 +1,5 @@
 package com.Specials;
-
+//program has error . need to fix
 public class Uttar {
 	public static void main(String[] args) {
 		

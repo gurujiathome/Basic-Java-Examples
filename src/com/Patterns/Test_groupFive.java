@@ -1,5 +1,5 @@
 package com.Patterns;
-
+// connected with groupFive.java
 import java.util.Scanner;
 
 public class Test_groupFive {
@@ -12,3 +12,5 @@ public class Test_groupFive {
 	}
 
 }
+// alternate code with for loop by afreen
+//code goes here
